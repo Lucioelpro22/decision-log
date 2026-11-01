@@ -14,4 +14,9 @@ Abrí `dist/index.html` en un navegador. La información se guarda en `localStor
 - Vista de detalle y revisión posterior.
 - Búsqueda y filtros.
 - Exportación JSON.
+- Importación de respaldos JSON con validación.
+- Exportación del registro completo en Markdown.
+- Indicadores de revisiones vencidas.
+- Duplicado rápido de decisiones como nuevas propuestas.
+- Tema visual persistente.
 
